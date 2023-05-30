@@ -9,3 +9,11 @@ VİDEOLAR:
 
 
 2)YÜZ TANIMA: https://drive.google.com/file/d/1NeSjMs5obqMUzkyWRTmjSBEgwjqoxQOO/view
+
+
+RAPOR:
+[ProjeRapor.docx](https://github.com/yildizezgi617/YUZ-TANIMA/files/11605097/ProjeRapor.docx)
+
+
+SUNUM:
+[yüztanimasunum.pptx](https://github.com/yildizezgi617/YUZ-TANIMA/files/11605100/yuztanimasunum.pptx)
